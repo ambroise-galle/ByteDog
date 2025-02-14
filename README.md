@@ -2,6 +2,11 @@
 
 ByteDog is an open-source project aimed at making robotics accessible to everyone through a low-cost, easy-to-assemble, and programmable quadruped robot.
 
+<div style="display: flex; gap: 10px; align-items: center;">
+    <img src="images/1.jpeg" alt="ByteDog" width="200">
+    <img src="3d/Final.png" alt="ByteDog" width="200">
+</div>
+
 ## 🚀 Objective
 The goal of ByteDog is to provide a simple and affordable platform for experimenting with quadruped robotics without breaking the bank.
 
